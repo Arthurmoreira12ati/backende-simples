@@ -1,0 +1,12 @@
+{
+  "name": "meu-backend-simples",
+  "version": "1.0.0",
+  "description": "Backend simples estilo primeira aula",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
