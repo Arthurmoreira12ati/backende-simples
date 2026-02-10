@@ -5,9 +5,8 @@ const port = 3000;
 // Rota raiz "/"
 app.get('/', (req, res) => {
     res.json({
-        mensagem: "Olá, Frontend! O Backend está funcionando perfeitamente 🚀",
-        autor: "Aluno Dev",
-        status: 200
+        mensagem: "Olá, Frontend! O Backend está funcionando perfeitamente",
+        autor: "Arthur Moreira Pae"
     });
 });
 
